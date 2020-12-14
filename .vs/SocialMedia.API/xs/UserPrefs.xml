@@ -4,8 +4,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SocialMedia.API" expanded="True">
-            <Node name="SocialMedia.API" expanded="True" selected="True" />
+          <Node name="SocialMedia.API" expanded="True" selected="True">
+            <Node name="SocialMedia.API" expanded="True" />
             <Node name="SocialMedia.Core" expanded="True" />
             <Node name="SocialMedia.Infrastructure" expanded="True" />
           </Node>
