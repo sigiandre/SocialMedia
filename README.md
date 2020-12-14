@@ -22,5 +22,5 @@ RESTFul API with .NET Core 3.1
 - Storing Hashing Passwords
 - Improving Your Code XD...
 
-- Programmer: Sigi Andre Diaz Quiroz
-- Career: Ingenieria de Software
+# Programmer: Sigi Andre Diaz Quiroz
+# Career: Ingenieria de Software
