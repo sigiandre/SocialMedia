@@ -30,6 +30,15 @@ CREATE TABLE Comentario(
     FOREIGN KEY (IdPublicacion) REFERENCES Publicacion(IdPublicacion),
     FOREIGN KEY (IdUsuario) REFERENCES Usuario(IdUsuario)
 );
+
+CREATE TABLE Seguridad(
+	IdSeguridad int NOT NULL PRIMARY KEY,
+    Usuario varchar(50) NOT NULL,
+    NombreUsuario varchar(100) NOT NULL,
+    Contrasena varchar(200) NOT NULL,
+    Rol varchar(15) NOT NULL
+);
+
 /*usuario insert*/
 INSERT INTO Usuario (IdUsuario, Nombres, Apellidos, Email, FechaNacimiento, Telefono, Activo) VALUES (1, 'Hademar', 'Coleman', 'Ligon@example.com', '1973-07-05', '012-9871', 1);
 INSERT INTO Usuario (IdUsuario, Nombres, Apellidos, Email, FechaNacimiento, Telefono, Activo) VALUES (2, 'Reginalda', 'Fife', 'Burrows865@example.com', '1971-09-27', '353-5572', 1);
