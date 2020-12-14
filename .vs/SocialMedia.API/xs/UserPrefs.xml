@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{7DD0CD09-4FB8-4272-A138-D464AA3BA55F}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{7DD0CD09-4FB8-4272-A138-D464AA3BA55F}|Default">
   <MonoDevelop.Ide.ItemProperties.SocialMedia.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
