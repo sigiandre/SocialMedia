@@ -1,0 +1,9 @@
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/bin/Debug/netcoreapp3.1/SocialMedia.Core.deps.json
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/bin/Debug/netcoreapp3.1/SocialMedia.Core.dll
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/bin/Debug/netcoreapp3.1/SocialMedia.Core.pdb
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/obj/Debug/netcoreapp3.1/SocialMedia.Core.AssemblyInfoInputs.cache
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/obj/Debug/netcoreapp3.1/SocialMedia.Core.AssemblyInfo.cs
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/obj/Debug/netcoreapp3.1/SocialMedia.Core.csproj.CoreCompileInputs.cache
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/obj/Debug/netcoreapp3.1/SocialMedia.Core.dll
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/obj/Debug/netcoreapp3.1/SocialMedia.Core.pdb
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/obj/Debug/netcoreapp3.1/SocialMedia.Core.csprojAssemblyReference.cache

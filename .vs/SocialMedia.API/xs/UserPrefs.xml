@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{7DD0CD09-4FB8-4272-A138-D464AA3BA55F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SocialMedia.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SocialMedia.API" expanded="True">
+            <Node name="SocialMedia.API" expanded="True" selected="True" />
+            <Node name="SocialMedia.Core" expanded="True" />
+            <Node name="SocialMedia.Infrastructure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

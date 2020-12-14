@@ -1,0 +1,15 @@
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.deps.json
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.runtimeconfig.json
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.runtimeconfig.dev.json
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.dll
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Infrastructure.pdb
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Core.dll
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/bin/Debug/netcoreapp3.1/SocialMedia.Core.pdb
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.csprojAssemblyReference.cache
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.AssemblyInfo.cs
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.csproj.CopyComplete
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.dll
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.pdb
+/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Infrastructure/obj/Debug/netcoreapp3.1/SocialMedia.Infrastructure.genruntimeconfig.cache

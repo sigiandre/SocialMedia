@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bTO8xJOpAqzJli2r2aVCWb2hEQaJJAeZvFLnTeBIIQ9QN7qIHgpvWTLFPgTfApRNW2fZy4oCcB7z0/81DEVTJA==",
+  "success": true,
+  "projectFilePath": "/Users/andrediaz/Desktop/SocialMedia.API/SocialMedia.Core/SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrediaz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.8/microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "/Users/andrediaz/.nuget/packages/microsoft.extensions.options/3.1.8/microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "/Users/andrediaz/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
