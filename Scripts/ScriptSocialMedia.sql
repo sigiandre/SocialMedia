@@ -32,7 +32,7 @@ CREATE TABLE Comentario(
 );
 
 CREATE TABLE Seguridad(
-	IdSeguridad int NOT NULL PRIMARY KEY,
+	IdSeguridad int AUTO_INCREMENT NOT NULL PRIMARY KEY,
     Usuario varchar(50) NOT NULL,
     NombreUsuario varchar(100) NOT NULL,
     Contrasena varchar(200) NOT NULL,
