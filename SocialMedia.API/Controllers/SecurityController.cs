@@ -8,6 +8,7 @@ using SocialMedia.Core.DTOs;
 using SocialMedia.Core.Entities;
 using SocialMedia.Core.Enumerations;
 using SocialMedia.Core.Interfaces;
+using SocialMedia.Infrastructure.Interfaces;
 
 namespace SocialMedia.API.Controllers
 {
@@ -19,11 +20,13 @@ namespace SocialMedia.API.Controllers
     {
         private readonly ISecurityService _securityService;
         private readonly IMapper _mapper;
+        private readonly IPasswordService _passwordService;
 
-        public SecurityController(ISecurityService securityService, IMapper mapper)
+        public SecurityController(ISecurityService securityService, IMapper mapper, IPasswordService passwordService)
         {
             _securityService = securityService;
             _mapper = mapper;
+            _passwordService = passwordService;
         }
 
         [HttpPost]
@@ -31,6 +34,7 @@ namespace SocialMedia.API.Controllers
         {
             var security = _mapper.Map<Security>(securityDto);
 
+            security.Password = _passwordService.Hash(security.Password);
             await _securityService.RegisterUser(security);
 
             securityDto = _mapper.Map<SecurityDto>(security);

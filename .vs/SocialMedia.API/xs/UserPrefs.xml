@@ -9,20 +9,16 @@
               <Node name="Controllers" expanded="True" />
             </Node>
             <Node name="SocialMedia.Core" expanded="True">
-              <Node name="DTOs" expanded="True" />
-              <Node name="Entities" expanded="True" />
-              <Node name="Enumerations" expanded="True" />
               <Node name="Interfaces" expanded="True" />
-              <Node name="Services" expanded="True" />
             </Node>
             <Node name="SocialMedia.Infrastructure" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="configurations" expanded="True">
-                  <Node name="SecurityConfiguration.cs" selected="True" />
-                </Node>
+              <Node name="Interfaces" expanded="True">
+                <Node name="IPasswordService.cs" selected="True" />
               </Node>
-              <Node name="Mappings" expanded="True" />
+              <Node name="Options" expanded="True" />
               <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Validators" expanded="True" />
             </Node>
           </Node>
         </State>

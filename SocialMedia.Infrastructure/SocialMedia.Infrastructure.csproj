@@ -13,6 +13,7 @@
     <Folder Include="Validators\" />
     <Folder Include="Services\" />
     <Folder Include="Interfaces\" />
+    <Folder Include="Options\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SocialMedia.Core\SocialMedia.Core.csproj" />
