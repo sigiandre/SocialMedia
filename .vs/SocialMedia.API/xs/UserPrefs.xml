@@ -5,22 +5,19 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SocialMedia.API" expanded="True">
-            <Node name="SocialMedia.API" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-            <Node name="SocialMedia.Core" expanded="True">
-              <Node name="Interfaces" expanded="True" />
-            </Node>
+            <Node name="SocialMedia.API" expanded="True" />
+            <Node name="SocialMedia.Core" expanded="True" />
             <Node name="SocialMedia.Infrastructure" expanded="True">
-              <Node name="Interfaces" expanded="True">
-                <Node name="IPasswordService.cs" selected="True" />
+              <Node name="Validators" expanded="True">
+                <Node name="PostValidator.cs" selected="True" />
               </Node>
-              <Node name="Options" expanded="True" />
-              <Node name="Repositories" expanded="True" />
-              <Node name="Services" expanded="True" />
-              <Node name="Validators" expanded="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SocialMedia.API" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
